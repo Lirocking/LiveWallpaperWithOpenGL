@@ -1,0 +1,4 @@
+<resources>
+    <string name="lesson_three_wallpaper">Using GLSurfaceView</string>
+    <string name="app_name">Live Wallpaper</string>
+</resources>
